@@ -1,6 +1,6 @@
 # contracts
 
-Åbne kontraktskabeloner fra computerlove.tech. Første skabelon er en dansk aftale om outcome-baseret konsulentsamarbejde mellem virksomheder.
+Åbne kontraktskabeloner fra computerlove.tech. Første skabelon er en dansk **konsulentaftale med outcome som styringsgrundlag** mellem virksomheder.
 
 **Vi aftaler først, hvilken forretningsmæssig effekt samarbejdet skal skabe, hvordan vi måler den, og hvad kunden vil investere i at opnå den inden for en afgrænset periode.** Leverandøren prioriterer arbejdet efter den effekt.
 
@@ -11,22 +11,23 @@ Timer, bemanding, onboarding og konkrete leverancer kan være nyttige samarbejds
 1. Kopiér [kontrakten](templates/da/outcome-baseret-konsulentaftale.md).
 2. Udfyld alle `[felter]`, vælg tilvalg og fjern vejledningstekst. Skriv »ingen« eller »ikke relevant«, hvor det er passende.
 3. Aftal baseline, målemetode, mål, kvalitetsgrænser, kundens gevinstrealisering og økonomi, før outcome-indsatsen begynder. Hvis grundlaget mangler, kan I først bestille en betalt afklaringsfase i bilag E.
-4. Fordel hele rammen i bilag B, og aftal håndtering og honorar ved hurtig succes. Vælg særskilt, om bilag D, E og F skal gælde. Ved afklaring alene kan de senere mål og vilkår stå foreløbige indtil fælles godkendelse.
+4. Fordel hele rammen i bilag B, og aftal håndtering og honorar ved hurtig succes. Vælg særskilt, om bilag D og E skal gælde. Ved afklaring alene kan de senere mål og vilkår stå foreløbige indtil fælles godkendelse.
 5. Gennemgå den udfyldte aftale med parternes juridiske rådgivere og underskriv den inklusive bilag.
 
-**Status: Version 0.3, udkast, ikke juridisk kvalitetssikret.** Skabelonen er et udgangspunkt for en konkret B2B-aftale efter dansk ret og er ikke juridisk rådgivning. Den er ikke en færdig ramme for offentlige udbud, regulerede ydelser eller forbrugeraftaler.
+**Status: Version 0.4, udkast, ikke juridisk kvalitetssikret.** Skabelonen er et udgangspunkt for en konkret B2B-aftale efter dansk ret og er ikke juridisk rådgivning. Den er ikke en færdig ramme for offentlige udbud, regulerede ydelser eller forbrugeraftaler.
 
 ## Grundmodel og tilvalg
 
-Grundmodellen er: »Vi engagerer jer i fire måneder til at drive X outcome for et på forhånd aftalt honorar.« Outcome styrer indsatsen og evalueringen. Det faste honorar beregnes hverken efter faktisk timeforbrug eller størrelsen af den opnåede effekt. Perioden og honoraret aftales konkret i hvert engagement. Kunden bærer risikoen for, at målet udebliver trods korrekt udført indsats; Leverandøren bærer risikoen for sit ressourceforbrug inden for den aftalte indsats. Ansvar ved misligholdelse bevares.
+Grundmodellen er: »Vi engagerer jer i fire måneder til at drive X outcome for et på forhånd aftalt honorar.« Outcome styrer indsatsen og evalueringen. Honoraret aftales på forhånd og beregnes ikke ud fra målopfyldelse, realiserede gevinster eller faktisk timeforbrug. Skabelonen bruger outcomes som styringsgrundlag, ikke som en model for outcome-based eller value-based pricing. Perioden og honoraret aftales konkret i hvert engagement. Kunden bærer risikoen for, at målet udebliver trods korrekt udført indsats; Leverandøren bærer risikoen for sit ressourceforbrug inden for den aftalte indsats. Ansvar ved misligholdelse bevares.
 
 Outcome-fokus skal mindske risikoen for at bruge penge på arbejde, som ikke skaber den ønskede værdi. Det gør løbende måling, prioritering og fravalg til en del af samarbejdet. Det garanterer ikke, at målet nås.
 
-Tre moduler kan vælges særskilt:
+To moduler kan vælges særskilt:
 
-- **Bilag D — Trinvis investering:** Kunden kan fx investere 200.000 kr. af en ramme på 1 mio. kr. Før næste fase vurderer begge parter dokumenteret fremdrift og vælger udtrykkeligt, om de vil fortsætte. Kunden betaler den korrekt udførte, bestilte fase, også hvis målet udebliver. Den resterende ramme er ikke bestilt. En almindelig ratebetaling giver ikke denne stopmulighed.
+- **Bilag D — Trinvis investering:** Kunden kan fx investere 200.000 kr. af en ramme på 1 mio. kr. Før næste fase vurderer begge parter dokumenteret fremdrift og vælger udtrykkeligt, om de vil fortsætte. Kunden betaler den korrekt udførte, bestilte fase, også hvis målet udebliver. Den resterende ramme er ikke bestilt. Investering i næste fase betaler for den kommende indsats og er ikke en bonus for allerede opnåede resultater. En almindelig ratebetaling giver ikke denne stopmulighed.
 - **Bilag E — Betalt afklaring:** Bruges, hvis baseline, datakvalitet, mål eller nødvendige organisatoriske ændringer først skal undersøges. Kun afklaringen er bestilt, indtil begge parter godkender outcome-engagementet. En begrundet anbefaling om at stoppe kan være en god afslutning på afklaringen; den er ikke et opnået forretningsmæssigt outcome.
-- **Bilag F — Resultatafhængig betaling:** En særskilt mulighed for at gøre en del af eller hele honoraret afhængigt af målopfyldelse. Dette er ikke en forudsætning for outcome-fokus eller trinvis investering og giver ikke automatisk Leverandøren en andel af Kundens gevinst.
+
+Bilag C identificerer Kundens budgetansvarlige, den gevinstansvarlige og beslutningstagerne for næste fase. Hvis én afdeling betaler og en anden får værdien, skal deres mandat og koordinering være afklaret.
 
 ## Læring, kvalitet og gevinstrealisering
 
