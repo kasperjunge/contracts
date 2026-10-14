@@ -1,6 +1,6 @@
 # Aftale om outcome-baseret konsulentsamarbejde
 
-> Skabelon, version 0.2. Ikke juridisk kvalitetssikret. Udfyld alle felter, afklar tilvalg og få den konkrete aftale gennemgået inden underskrift. Denne vejledning fjernes fra den underskrevne aftale.
+> Skabelon, version 0.3. Ikke juridisk kvalitetssikret. Udfyld alle felter, afklar tilvalg og få den konkrete aftale gennemgået inden underskrift. Denne vejledning fjernes fra den underskrevne aftale.
 
 ## 1. Parter og aftalegrundlag
 
@@ -26,19 +26,25 @@ Senere skriftlige ændringer, godkendt af begge aftaleansvarlige, går forud. En
 
 ## 2. Formål og forpligtelse
 
-Samarbejdets primære formål er at skabe følgende forretningsmæssige effekt for Kunden: [Kort beskrivelse]. Outcomes, succeskriterier og måling fremgår af bilag A. Kunden finansierer en afgrænset indsats rettet mod disse outcomes og bærer risikoen for, at de ikke opnås, med de udtrykkeligt aftalte undtagelser og beføjelser ved misligholdelse. Honoraret afhænger ikke af Leverandørens timeforbrug. Trinvis investering og resultatafhængig betaling gælder kun ved særskilt tilvalg og kan vælges uafhængigt af hinanden.
+Samarbejdets primære formål er at skabe følgende forretningsmæssige effekt for Kunden: [Kort beskrivelse]. Outcomes, succeskriterier og måling fremgår af bilag A. Kunden engagerer Leverandøren i den aftalte periode til at drive disse outcomes gennem en målrettet indsats og bærer risikoen for, at de ikke opnås, med de udtrykkeligt aftalte undtagelser og beføjelser ved misligholdelse. Det faste honorar aftales på forhånd for indsatsen i perioden og beregnes hverken efter faktisk timeforbrug eller størrelsen af den opnåede effekt. Trinvis investering og resultatafhængig betaling gælder kun ved særskilt tilvalg og kan vælges uafhængigt af hinanden.
 
 Leverandøren skal med faglig omhu planlægge, gennemføre og løbende tilpasse indsatsen med henblik på de aftalte outcomes. Prioriteringer skal kunne begrundes i deres forventede bidrag til målene. Leverandøren skal aktivt foreslå fravalg og ændringer, når indsatser ikke forventes at skabe den aftalte effekt.
 
 Målene er det primære grundlag for styring og evaluering. Leverandøren garanterer ikke målopfyldelse, medmindre en konkret resultatgaranti med tilhørende konsekvenser udtrykkeligt er aftalt i bilag A. Den økonomiske konsekvens af manglende målopfyldelse følger bilag B og de tilvalgte bilag D og F. Manglende målopfyldelse medfører ikke i sig selv tilbagebetaling af det faste honorar for en korrekt gennemført indsats. Dette begrænser ikke ansvaret for misligholdelse af Leverandørens øvrige forpligtelser.
 
-Timer, aktiviteter og leverancer er ikke i sig selv dokumentation for opnåede outcomes.
+Leverandøren skal ved valg og gennemførelse af løsninger tage rimeligt hensyn til det beskrevne forretningsmæssige formål og væsentlige negative følgevirkninger, som en fagligt omhyggelig leverandør burde kunne forudse på det foreliggende grundlag. Pligten gælder også forhold, der ikke er opstillet som særskilte metrics eller kvalitetsgrænser. Leverandøren skal undersøge relevante risici i et omfang, der står i rimeligt forhold til ændringens karakter, og indhente afklaring hos Kunden ved væsentlig tvivl. Kunden skal oplyse særlige behov og begrænsninger, som Leverandøren ikke med rimelighed kan kende.
+
+Opfyldelse af et måltal er ikke i sig selv dokumentation for korrekt opfyldelse af hele aftalen. Omvendt udgør et uønsket resultat ikke i sig selv misligholdelse; vurderingen følger de konkrete forpligtelser og punkt 12. Timer, aktiviteter og leverancer er ikke i sig selv dokumentation for opnåede outcomes.
 
 ## 3. Periode og metodefrihed
 
 Aftalen løber fra [dato] til [dato] uden automatisk forlængelse. Måleperioder og eventuel efterfølgende slutmåling fremgår af bilag A. Manglende målopfyldelse forlænger ikke i sig selv perioden eller pålægger Leverandøren fortsat arbejde uden yderligere aftale; en udtrykkelig resultatgaranti eller afhjælpningspligt ved misligholdelse gælder dog efter sine vilkår. Arbejde efter slutdatoen kræver særskilt aftale; allerede aftalt måling, afregning og overdragelse gennemføres dog som beskrevet her.
 
 Leverandøren vælger og tilpasser metoder, værktøjer og løsninger inden for budget, sikkerhedskrav, lovgivning og de aftalte praktiske rammer. Væsentlige ændringer med konsekvenser for Kundens drift, omkostninger eller risici kræver Kundens forudgående skriftlige godkendelse. Tavshed er ikke godkendelse.
+
+Bilag C angiver, hvilke ændringer Leverandøren selv må beslutte, hvilke der kræver Kundens godkendelse, og hvem der kan godkende dem. Ændringer af produktets væsentlige egenskaber, kundeløfter eller væsentlige personalevilkår skal altid forelægges Kunden til forudgående skriftlig godkendelse. Metodefriheden giver ikke i sig selv mandat til at ændre disse forhold. Ved tvivl om mandatet skal Leverandøren indhente afklaring, før ændringen gennemføres.
+
+Et godkendelsesgrundlag skal beskrive forventet effekt, væsentlige risici og følgevirkninger samt muligheden for afprøvning og tilbageførsel. Kundens godkendelse fritager ikke Leverandøren for faglig omhu eller for at oplyse relevante risici. Godkendelsen ændrer kun mål, budget, ansvar eller andre aftalevilkår, hvis det udtrykkeligt aftales efter punkt 7.
 
 Bilag C kan fastlægge eksempelvis deltagelse i Kundens team, onboarding, tilgængelighed, kompetencer, dokumentation og nødvendige leverancer. Udtrykkeligt aftalte krav er bindende, også selv om de ikke i sig selv er outcomes. En foreløbig løsningsidé eller backlog er ikke et bindende leverancescope, medmindre den udtrykkeligt er gjort til et sådant krav. Ændringer af bindende krav følger punkt 7.
 
@@ -79,6 +85,14 @@ Parterne følger op med den frekvens, der er angivet i bilag C. Opfølgningen om
 Hvis forudsætninger ændrer sig væsentligt, eller ny viden viser behov for at ændre mål eller måling, skal den part, der foreslår ændringen, beskrive og begrunde den. Parterne søger inden 10 arbejdsdage at aftale en justering af indsats, mål, måling, periode eller budget. En ændring gælder kun skriftligt med begge aftaleansvarliges godkendelse. Ændringen skal registrere hidtidige mål og resultater, begrundelsen, ikrafttrædelsesdatoen og konsekvensen for resterende indsats, budget, måling og tid. Nye mål gælder fremadrettet; historiske resultater og manglende målopfyldelse må ikke omskrives som følge af ændringen. Allerede udført indsats og eventuelt optjent resultathonorar opgøres særskilt efter de hidtil gældende vilkår, herunder den aftalte metode ved afbrydelse af en måleperiode. Indtil da fortsætter upåvirket arbejde inden for aftalen; ingen part er forpligtet til merarbejde eller ulovligt eller uforsvarligt arbejde.
 
 Kan parterne ikke finde en løsning, kan hver part afslutte den berørte del med 10 arbejdsdages skriftligt varsel. Upåvirkede dele fortsætter, hvis de stadig meningsfuldt kan gennemføres. Afregning følger punkt 11. Bestemmelsen fritager ikke en part for ansvar for en hindring, som skyldes partens egen misligholdelse.
+
+### Negative følgevirkninger og begrænsning af skade
+
+En part, der opdager væsentlige negative følgevirkninger eller konkret risiko herfor i forbindelse med indsatsen, skal uden unødigt ophold orientere den anden part og beskrive forholdet, mulig påvirkning og foreslåede tiltag. Leverandøren skal inden for sine adgange og sit mandat træffe rimelige foranstaltninger for at begrænse skaden og om nødvendigt straks sætte egne berørte ændringer eller aktiviteter på pause, når fortsættelse indebærer væsentlig risiko for yderligere skade. Upåvirket arbejde fortsætter, hvor det er forsvarligt.
+
+Bilag C fastlægger kontaktpersoner, eskalation, akut mandat og betingelser for tilbageførsel. En pause skal gennemføres så forsvarligt som muligt og må ikke bruges som grundlag for indgreb uden for Leverandørens mandat. Kræver begrænsning af skaden handling fra Kunden, skal Leverandøren straks forelægge behovet for den relevante kontaktperson, og Kunden skal uden unødigt ophold tage stilling. Databehandleraftalens eventuelt strengere hændelseskrav gælder fortsat.
+
+Parterne skal uden unødigt ophold aftale korrektion eller tilbageførsel, ansvar for handlingerne, dokumentation og betingelser for genoptagelse samt konsekvenser for måling, tid og økonomi. En pause ændrer ikke automatisk honorar eller frister og er ikke i sig selv en anerkendelse af ansvar. Skyldes forholdet Leverandørens misligholdelse, gennemføres den afhjælpning, som Leverandøren er forpligtet til efter punkt 12, uden særskilt honorar. Øvrige ændringer og eventuelle ekstra udgifter kræver aftale efter punkt 7 og 6. Uenighed om ansvar må ikke forsinke de rimelige skadebegrænsende handlinger, som parterne allerede er forpligtet til at foretage. Beføjelser og ansvar følger fortsat punkt 12 og 13.
 
 ## 8. Rettigheder og overdragelse
 
@@ -218,6 +232,11 @@ Beløbet ved hurtig succes erstatter den almindelige ophørsafregning for den re
 | Kundens gevinstrealisering | [Handlinger, ansvar og frister for fx ændrede arbejdsgange og anvendelse af frigjort kapacitet] |
 | Leverandørens implementeringsansvar | [Handlinger, ansvar og frister for fx implementering, oplæring og understøttelse af anvendelsen] |
 | Beslutningsmandat | [Hvem beslutter målændringer og investeringer, inden for hvilke beløbsgrænser og med hvilken svartid?] |
+| Leverandørens selvstændige mandat | [Hvilke metoder, forsøg og ændringer kan Leverandøren gennemføre uden yderligere godkendelse, og inden for hvilke grænser?] |
+| Ændringer, der kræver godkendelse | [Ændringstyper, navngivne godkendere og svartid; omfatter altid ændringer af væsentlige produktegenskaber, kundeløfter og væsentlige personalevilkår efter punkt 3] |
+| Særlige behov og begrænsninger | [Kundens forhold, der skal respekteres, også uden en særskilt metric; fx produktkvalitet, kundeaftaler og medarbejderhensyn] |
+| Afprøvning og tilbageførsel | [Hvordan afprøves væsentlige ændringer, hvordan overvåges følgevirkninger, og hvem kan godkende og gennemføre tilbageførsel?] |
+| Akut handling og genoptagelse | [Kontaktpersoner og stedfortrædere, eskalationsvej, akut mandat samt beslutningstager og dokumentationskrav før genoptagelse efter punkt 7] |
 | Onboarding og adgang | [Systemer, oplæring, ansvar og frister] |
 | Team og tilgængelighed | [Roller, kompetencer, møder og eventuelle tidsvinduer eller minimumstilstedeværelse] |
 | Praktiske leverancer | [Dokumentation, integration, oplæring mv.; formål, frist og konkrete acceptkriterier] |

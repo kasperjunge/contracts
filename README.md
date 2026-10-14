@@ -14,11 +14,11 @@ Timer, bemanding, onboarding og konkrete leverancer kan være nyttige samarbejds
 4. Fordel hele rammen i bilag B, og aftal håndtering og honorar ved hurtig succes. Vælg særskilt, om bilag D, E og F skal gælde. Ved afklaring alene kan de senere mål og vilkår stå foreløbige indtil fælles godkendelse.
 5. Gennemgå den udfyldte aftale med parternes juridiske rådgivere og underskriv den inklusive bilag.
 
-**Status: Version 0.2, udkast, ikke juridisk kvalitetssikret.** Skabelonen er et udgangspunkt for en konkret B2B-aftale efter dansk ret og er ikke juridisk rådgivning. Den er ikke en færdig ramme for offentlige udbud, regulerede ydelser eller forbrugeraftaler.
+**Status: Version 0.3, udkast, ikke juridisk kvalitetssikret.** Skabelonen er et udgangspunkt for en konkret B2B-aftale efter dansk ret og er ikke juridisk rådgivning. Den er ikke en færdig ramme for offentlige udbud, regulerede ydelser eller forbrugeraftaler.
 
 ## Grundmodel og tilvalg
 
-Kunden køber en betalt, afgrænset indsats rettet mod klart aftalte outcomes. Honoraret afhænger ikke af antallet af timer. Kunden bærer risikoen for, at målet udebliver trods korrekt udført indsats; Leverandøren bærer risikoen for sit ressourceforbrug inden for den aftalte indsats. Ansvar ved misligholdelse bevares.
+Grundmodellen er: »Vi engagerer jer i fire måneder til at drive X outcome for et på forhånd aftalt honorar.« Outcome styrer indsatsen og evalueringen. Det faste honorar beregnes hverken efter faktisk timeforbrug eller størrelsen af den opnåede effekt. Perioden og honoraret aftales konkret i hvert engagement. Kunden bærer risikoen for, at målet udebliver trods korrekt udført indsats; Leverandøren bærer risikoen for sit ressourceforbrug inden for den aftalte indsats. Ansvar ved misligholdelse bevares.
 
 Outcome-fokus skal mindske risikoen for at bruge penge på arbejde, som ikke skaber den ønskede værdi. Det gør løbende måling, prioritering og fravalg til en del af samarbejdet. Det garanterer ikke, at målet nås.
 
@@ -35,6 +35,14 @@ Måltal skal fortsat repræsentere den ønskede forretningseffekt. Parterne genb
 For hvert outcome angives, hvad der ikke må blive dårligere. Kortere sagsbehandlingstid kan fx kræve, at fejlrate og genåbnede sager ikke stiger. Aftal også, hvordan I opdager, om arbejdet blot flyttes til en anden afdeling, og hvor længe effekten skal bestå.
 
 Frigjort tid er ikke det samme som en realiseret besparelse. Bilag C fordeler derfor ansvar for implementering, oplæring, anvendelse og de kundebeslutninger, der skal omsætte forbedringen til værdi. Tidlige indikatorer kan bruges til fasebeslutninger, hvis deres forbindelse til det endelige outcome og deres usikkerhed er tydelig.
+
+## Metodefrihed med ansvar
+
+Leverandøren skal tage rimeligt hensyn til samarbejdets beskrevne formål og forudsigelige negative følgevirkninger, også uden en særskilt metric. Et opfyldt måltal dokumenterer ikke alene, at hele aftalen er opfyldt. Kunden skal samtidig oplyse særlige behov og begrænsninger, som Leverandøren ikke med rimelighed kan kende.
+
+Bilag C fastlægger, hvad Leverandøren må ændre selv, og hvad Kunden skal godkende. At optimere en produktionsproces giver fx ikke i sig selv ret til at fjerne en væsentlig ingrediens fra produktet. Godkendelser skal bygge på oplyste risici og muligheder for afprøvning og tilbageførsel.
+
+Ved væsentlige negative følgevirkninger skal parterne orientere hinanden og begrænse skaden. Leverandøren skal om nødvendigt sætte egne berørte aktiviteter på pause inden for sit mandat. Korrektion, tilbageførsel og genoptagelse håndteres konkret; en pause ændrer ikke automatisk pris eller tid. Pligtig afhjælpning af Leverandørens egen misligholdelse udløser ikke ekstra honorar.
 
 ## Hvis målet nås hurtigt
 
