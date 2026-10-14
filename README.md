@@ -43,11 +43,11 @@ Leverandøren skal tage rimeligt hensyn til samarbejdets beskrevne formål og fo
 
 Bilag C fastlægger, hvad Leverandøren må ændre selv, og hvad Kunden skal godkende. At optimere en produktionsproces giver fx ikke i sig selv ret til at fjerne en væsentlig ingrediens fra produktet. Godkendelser skal bygge på oplyste risici og muligheder for afprøvning og tilbageførsel.
 
-Ved væsentlige negative følgevirkninger skal parterne orientere hinanden og begrænse skaden. Leverandøren skal om nødvendigt sætte egne berørte aktiviteter på pause inden for sit mandat. Korrektion, tilbageførsel og genoptagelse håndteres konkret; en pause ændrer ikke automatisk pris eller tid. Pligtig afhjælpning af Leverandørens egen misligholdelse udløser ikke ekstra honorar.
+Ved væsentlige negative følgevirkninger skal parterne orientere hinanden og begrænse skaden. Leverandøren skal om nødvendigt sætte egne berørte aktiviteter på pause inden for sit mandat. Korrektion, tilbageførsel og genoptagelse håndteres konkret. Upåvirket arbejde betales som aftalt. Ventetid betales kun ved Kundens manglende aftalte medvirken og kun efter en udtrykkelig aftale om reserveret kapacitet i bilag B. Slutdatoen flyttes ikke automatisk; parterne skal aftale den resterende indsats eller en ny tidsplan. Pligtig afhjælpning af Leverandørens egen misligholdelse udløser ikke ekstra honorar.
 
 ## Hvis målet nås hurtigt
 
-Aftal på forhånd, om samarbejdet fortsætter med dokumentation og stabilisering, eller om det afsluttes efter dokumenteret succes og overdragelse. Bilag B fastlægger det faste honorar i denne situation, herunder om hele honoraret for den relevante del betales. Den særlige afregning går forud for almindelig ophørsafregning for succesfuldt afsluttede dele; den udløses ikke af en foreløbig måling alene.
+Aftal på forhånd, om samarbejdet fortsætter med dokumentation og stabilisering, eller om det afsluttes efter dokumenteret succes og overdragelse. Bilag B fastlægger det faste honorar i denne situation, herunder om hele honoraret for den relevante del betales. Den særlige afregning går forud for almindelig ophørsafregning for succesfuldt afsluttede dele; den udløses ikke af en foreløbig måling alene. Ved opsigelse skal målværdien være nået senest på den faktiske ophørsdato. Aftalt eftermåling og overdragelse kan afsluttes bagefter inden dokumentationsfristen i bilag B, og alle kvalitets- og varighedskrav skal være opfyldt.
 
 Hurtig succes skaber hverken automatisk nye opgaver eller betalingspligt for ikke frigivne faser. Nye mål kræver en ny aftale. Skabelonen skelner mellem effektiv udførelse og ufuldstændig opfyldelse af kvalitets-, varigheds- og overdragelseskrav.
 
